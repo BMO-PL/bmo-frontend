@@ -1,0 +1,1 @@
+You can delete this file, i have it just so the images folder gets committed to git
